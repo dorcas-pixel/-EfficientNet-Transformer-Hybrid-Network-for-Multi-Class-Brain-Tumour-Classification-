@@ -1,0 +1,9 @@
+# Dataset
+
+This folder contains the dataset used for brain tumour classification.
+
+Classes:
+- Glioma
+- Meningioma
+- Pituitary
+- No Tumor
